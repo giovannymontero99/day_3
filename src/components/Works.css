@@ -1,0 +1,53 @@
+.targets-section{
+    width: 90vw;
+    margin: 1rem;
+}
+.target{
+    margin: 8px 0;
+    padding: 8px;
+    background-color: #005a7a;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.target-title{
+    background-color: #006c94;
+    padding: 4px;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+}
+.target-descip{
+    background-color: rgba(0, 51, 70, 0.5);
+    padding: 4px;
+    color: rgba(255, 255, 255, .8 );
+    font-size: 12px;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+.target-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-border{
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    width: 32px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.btn-in{
+    background-color: #f51b1b;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+}
+.btn-in-active{
+    background-color: #44cf03;
+    justify-content: end;
+}
